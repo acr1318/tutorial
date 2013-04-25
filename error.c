@@ -6,6 +6,7 @@
 
 /*asdf*/
 
+/*안녕하세요*/
 
 static void	err_doit(int, int, const char *, va_list);
 
